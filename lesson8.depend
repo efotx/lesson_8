@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511858860 source:d:\c\lesson8\main.cpp
+	<iostream>
+	"srAr.h"
+
+1511858305 d:\c\lesson8\srar.h
+	<cassert>
+
