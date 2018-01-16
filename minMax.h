@@ -1,6 +1,7 @@
 #ifndef MINMAX_H_INCLUDED
 #define MINMAX_H_INCLUDED
 
+//function searches minimum and maximum of the interval
 template <typename It, typename T>
 std::pair<T, T> minMax (It first, It last)
 {

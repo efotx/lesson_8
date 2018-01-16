@@ -3,6 +3,7 @@
 
 #include <cassert>
 
+//function calculates the arithmetic mean of the interval
 template <typename T>
 T srAr(T *start, T *last)
 {
